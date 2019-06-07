@@ -12,6 +12,7 @@ export default class InformationSkills extends React.Component<IInformationSkill
             <div className={ styles.column }>
               <span className={ styles.title }>Information Skills</span>
               <p className={ styles.subTitle }>Book interventions for students</p>
+              <p className={ styles.subTitle }>Built using github and devops</p>
               <p className={ styles.description }>{escape(this.props.description)}</p>
               <a href="https://aka.ms/spfx" className={ styles.button }>
                 <span className={ styles.label }>Learn more</span>
