@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sfx-information-skills-client-side-solution",
+    "id": "b89f9c0e-2f8c-4b51-83e7-96b8ef9240ea",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sfx-information-skills.sppkg"
+  }
+}
